@@ -1,0 +1,2 @@
+# cashmachine1
+mywordpress
